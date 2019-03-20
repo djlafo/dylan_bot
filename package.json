@@ -1,0 +1,16 @@
+{
+  "name": "dylan_bot",
+  "version": "1.0.0",
+  "description": "My First Discord Bot",
+  "main": "bot.js",
+  "author": "Dylan Lafont",
+  "dependencies": {
+    "aws-sdk": ">= 2.249.1",
+    "uuid": ">=3.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0",
+    "youtube-search": "1.1.3",
+    "node-spotify-api": "1.0.7",
+    "google": "2.1.0"
+  }
+}
